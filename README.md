@@ -139,10 +139,10 @@ Remember that Spotify's own terms are unclear but ATM said to be
 Minimally tested on version 2, 32-bit desktop release. Package bundles
 libqtdbus4-4.8.1 required by spotify; system version is 4.8.2
 
-## Debian
+### Debian
 - Success stories reported for Wheezy 7.0, bug fixed for 7.1 (issue #13)
 
-## CentOS
+### CentOS
 - Partial success story on CentOS 6.4 in [6]
 
 ### Linux Mint
